@@ -167,12 +167,6 @@ def menu():
                             if options == 4:
                                 break
                                 
-                
-                 
-clean_data()       
-balance_team()
-menu()
-
-
+            
 
         
